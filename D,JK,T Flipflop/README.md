@@ -63,7 +63,6 @@ This repository contains digital circuit designs of the **D**, **T**, and **JK F
 - `d_flipflop.png` – Schematic for D Flip-Flop  
 - `t_flipflop.png` – Schematic for T Flip-Flop  
 - `jk_flipflop.png` – Schematic for JK Flip-Flop  
-- `simulation.mp4` – (Optional) Demo of all Flip-Flop simulations  
 - `README.md` – Project documentation
 
 ---
