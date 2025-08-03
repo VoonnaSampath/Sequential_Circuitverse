@@ -7,7 +7,7 @@ This project demonstrates the implementation of a **4-bit Asynchronous Up/Down C
 - **Functionality**: Counts from 0 to 15 (UP) or 15 to 0 (DOWN) asynchronously.
 - **Inputs**:
   - `CLK` – Clock signal
-  - `UP/DOWN` – Control signal (1 for up, 0 for down)
+  - `Mode` – Control signal (0 for up, 1 for down)
   - `CLR` – Asynchronous clear (reset)
 - **Outputs**:
   - `Q0` to `Q3` – 4-bit binary output
@@ -36,8 +36,8 @@ This project demonstrates the implementation of a **4-bit Asynchronous Up/Down C
 | 15    | 1  | 1  | 1  | 1  |
 
 > Direction of count depends on the `UP/DOWN` control:
-> - UP (`1`): Increments binary output
-> - DOWN (`0`): Decrements binary output
+> - UP (`0`): Increments binary output
+> - DOWN (`1`): Decrements binary output
 
 ---
 
