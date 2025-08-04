@@ -1,4 +1,4 @@
-# MOD-10 Asynchronous Counter – CircuitVerse
+# MOD 10 Asynchronous Counter – CircuitVerse
 
 ## 🧠 Project Overview
 This project demonstrates the implementation of a **MOD-10 Asynchronous Counter** (also known as a decade counter) using [CircuitVerse](https://circuitverse.org). It counts from 0 to 9 in binary and resets automatically to 0 after reaching 9, using asynchronous ripple counter logic.
@@ -11,18 +11,6 @@ This project demonstrates the implementation of a **MOD-10 Asynchronous Counter*
 - **Outputs**:
   - `Q0` to `Q3` – 4-bit binary output representing the count
 - **Controlled using**: Flip-flop chain with logic to reset after 1001 (decimal 9)
-
-## 📂 Files Included
-- `mod10_counter.cv` – Raw exported CircuitVerse file
-- `mod10_counter.png` – Schematic image of the circuit
-- `simulation.mp4` – (Optional) Working simulation video
-- `README.md` – Documentation for this module
-
-## 🔗 Live Simulation
-[Click here to view the project on CircuitVerse](https://circuitverse.org/simulator/edit/mod-10-asynchronous-counter-c08dbcd4-8c44-4f98-94f9-21f7bd925544)
-
-## 🛠 Tools Used
-- [CircuitVerse](https://circuitverse.org) – Open-source digital circuit simulator
 
 ---
 
@@ -43,5 +31,18 @@ This project demonstrates the implementation of a **MOD-10 Asynchronous Counter*
 | Reset   | 0  | 0  | 0  | 0  |
 
 > The counter resets to 0000 after reaching 1001 (decimal 9) using asynchronous clear logic.
+
+---
+
+## 📂 Files Included
+- `MOD 10 Asynchronous Counter.cv` – Raw exported CircuitVerse file
+- `MOD 10 Asynchronous Counter.png` – Schematic image of the circuit
+- `README.md` – Documentation for this module
+
+## 🔗 Live Simulation
+[Click here to view the project on CircuitVerse](https://circuitverse.org/simulator/edit/mod-10-asynchronous-counter-c08dbcd4-8c44-4f98-94f9-21f7bd925544)
+
+## 🛠 Tools Used
+- [CircuitVerse](https://circuitverse.org) – Open-source digital circuit simulator
 
 ---
