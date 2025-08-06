@@ -61,6 +61,4 @@ In a Moore machine, the output depends **only on the current state**. For the "1
 ---
 
 ## 🖼 Waveform or Simulation Screenshot
-
-```markdown
-![1001 Moore Sequence Detector Waveform](1001%20Moore%20Sequence%20Detector%20with%201%20Bit%20Overlapping%20Waveform.png)
+!["1001" Moore Sequence Waveform](<"1001" Moore Sequence Detector with 1 Bit Overlapping Waveform.png>)
