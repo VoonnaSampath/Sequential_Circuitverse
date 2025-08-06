@@ -20,7 +20,7 @@ This project implements a **Mealy-type finite state machine (FSM)** to detect th
 - `README.md` – Documentation for this module
 
 ## 🔗 Live Simulation
-[Click here to view the project on CircuitVerse](https://circuitverse.org/simulator/edit/YOUR_PROJECT_ID)
+[Click here to view the project on CircuitVerse](https://circuitverse.org/simulator/edit/1001-sequence-detector-mealy-machine)
 
 ## 🛠 Tools Used
 - [CircuitVerse](https://circuitverse.org) – Open-source digital circuit simulator
