@@ -21,6 +21,7 @@ Below is a list of typical sequential circuits included in this repository. Each
 #### T Flip-Flop
 
 - **Function:** Toggle flip-flop; output changes state on each clock pulse if T input is high.
+
 - **Folder:** `D,JK,T Flip-Flop`
 
 ### 2. 4-bit Synchronous Counter
